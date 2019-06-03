@@ -5,4 +5,6 @@ title: Yet Another Test Post
 
 This is another test post
 to see if it shows up 
-#### Another
+![qi image]({{ site.baseurl }}/images/qi.png "qi")
+
+#### Qi is energy
