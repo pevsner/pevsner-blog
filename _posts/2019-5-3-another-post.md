@@ -14,7 +14,7 @@ to see if it shows up.
 
 A link to [pevsner-blog](https://pevsner.github.io/pevsner-blog/). A big ass literal link <https://pevsner.github.io/pevsner-blog/>
 
-An image, located within /images
+An image, located within /images  
 ![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
 
 ![qi image]({{ site.baseurl }}/images/qi.jpg "qi")
