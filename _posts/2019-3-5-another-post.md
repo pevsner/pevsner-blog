@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Yet Another Test Post
 ---
 
 This is another test post
