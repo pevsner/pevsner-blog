@@ -3,13 +3,13 @@ r#
 #
 
 # Name of your site (displayed in the header)
-name: Pevsner
+name: Pevsner-blog
 
 # Short bio or description (displayed in the header)
 description: Commentary on life
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/pevsner/pevsner-blog/blob/master/images/qi.jpg
+avatar: https://pevsner.github.io/pevsner-blog/images/qi.jpg
 #
 # Flags below are optional
 #
